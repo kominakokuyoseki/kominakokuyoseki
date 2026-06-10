@@ -1,8 +1,6 @@
 Some random experimenting coder (but mainly designer, I'm more frontend) who honestly doesn't understand why the static world wide web didn't stop at HTML5 but rolls with it
 
-<h2 align="center">in the works
-
-</h2>
+<h2 align="center">in the works</h2>
 
 Color codes: see end of file.
 
@@ -38,7 +36,7 @@ Color codes: see end of file.
 
     An advanced evolution of the [e1547](https://github.com/clynamic/e1547) Flutter client, expanded to support **Danbooru-based** imageboards (like Danbooru) alongside e621. It bridges the architectural gaps between the different API standards, implementing support for distinct authentication flows, tag systems, comments, and post flagging mechanisms found across different booru software.
 
-## notes
+<h2 align="center">notes</h2>
 
 Some of these apps may launch soon, and depending on whether they're derived from an open source project (like bode flow) or not (like Boxidio), they'll be open sourced and licensed accordingly. Non-derived projects or projects inspired by close-sourced projects might not be open sourced.
 
