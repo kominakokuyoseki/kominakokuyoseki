@@ -22,7 +22,7 @@ Color codes: see end of file.
 
     A reimagined version of "Better Open With," acting as a custom replacement for the Android "Open with" dialog to give more flexibility as to where to open things! The design is currently far from unira ui, from the time where I was even trying to get MD3 elements to work in my apps, so it'll have to be reworked, too.
 
-*   🔳 **cobalt**
+*   🟥🔳 **cobalt**
 
     Me trying to make a Webview wrapper for cobalt.tools because I didn't really like how I couldn't refresh the page with their PWA. I'm probably gonna turn it into yet another yt-dlp wrapper, but with settings set to my needs (and that means preferring to convert m4a's to 320kbps mp3's).
 
@@ -49,3 +49,5 @@ Some of these apps may launch soon, and depending on whether they're derived fro
 🟩 Published, closed sourced.
 
 🟦 Published, open sourced.
+
+🔳 Name or purpose might be changed due to context and/or circumstances.
