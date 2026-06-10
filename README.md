@@ -1,13 +1,34 @@
-Some random coder whose only language stack she really knows boils down to a mix of HTML 4 and 5 lol
+Some random experimenting coder (but mainly designer, I'm more frontend) who honestly doesn't understand why the static world wide web didn't stop at HTML5 but rolls with it
 
-Currently playing with Android repos and trying to create apps like it's playing in a sandbox
+## in the works 
 
-### What's been tried so far:
+Color codes: see end of file.
 
-*   **Bode**: A Discord Rich Presence manager (based on [Kizzy](//github.com/dead8309/Kizzy)) for Android written in Kotlin. It uses the Discord Gateway to allow users to customize their presence with app and media detection, supporting Material You and background execution.
-*   **Boxidio**: A specialized video generation engine for Android that creates MP4 files **visualizing an audio player** from scratch using native APIs (`MediaCodec`, `OpenGL ES`, `MediaMuxer`). It handles audio transcoding and frame-by-frame rendering without external player dependencies.
-*   **Override** (bow-reborn): A(n experimental and currently not fully working) reimagining of "Better Open With," acting as a custom replacement for the Android "Open with" dialog. It gives users fine-grained control over which apps handle specific file types and URLs.
-*   **Cobalt**: A(n experimental and currently not fully working) native Android wrapper for `cobalt.tools`. It enhances the web-based media downloader with a native interface, injecting custom CSS/JS to optimize the UI for mobile and integrating with the Android `DownloadManager` for blob and URL downloads.
-*   **ecalamity**: An advanced evolution of the [e1547](//github.com/clynamic/e1547) Flutter client, expanded to support **Danbooru-based** imageboards (like Danbooru) alongside e621. It bridges the architectural gaps between the different API standards, implementing support for distinct authentication flows, tag systems, comments, and post flagging mechanisms found across different booru software.
+### @bodecrux
 
-Some of these apps may launch soon, and depending on whether they're derived from an open source project (like Bode) or not (like Boxidio), they'll be open sourced and licensed accordingly. Non-derived projects or projects inspired by close-sourced projects might not be open sourced.
+*   🟨🅰️ **flow** *main app*
+    A Rich Presence manager (based on [Kizzy](https://github.com/dead8309/Kizzy)) for Android written in Kotlin. It allows users to customize and present their current activity on platforms with app and media detection.
+*   🟧 **unira ui**
+    A base design, to go with all bode apps. Currently implemented directly in **bode flow**, based on the Material Design 3 Expressive ***feel*** rather than the actual guidelines, and a bit of independent magination.
+*   🟥 **boxidio**
+    A specialized video generation engine for Android that creates MP4 files visualizing an embedded audio player. It was originally intended to be used on X, but the format chosen can't be uploaded because it was too wide. So it'll have to be reworked.
+*   🟥 **override** (bow-reborn)
+    A reimagined version of "Better Open With," acting as a custom replacement for the Android "Open with" dialog to give more flexibility as to where to open things! The design is currently far from unira ui, from the time where I was even trying to get MD3 elements to work in my apps, so it'll have to be reworked, too.
+*   🔳 **cobalt**: Me trying to make a Webview wrapper for cobalt.tools because I didn't really like how I couldn't refresh the page with their PWA. I'm probably gonna turn it into yet another yt-dlp wrapper, but with settings set to my needs (and that means preferring to convert m4a's to 320kbps mp3's).
+
+### other projects
+
+*   🟧 **ecalamity**: An advanced evolution of the [e1547](https://github.com/clynamic/e1547) Flutter client, expanded to support **Danbooru-based** imageboards (like Danbooru) alongside e621. It bridges the architectural gaps between the different API standards, implementing support for distinct authentication flows, tag systems, comments, and post flagging mechanisms found across different booru software.
+
+## notes
+
+Some of these apps may launch soon, and depending on whether they're derived from an open source project (like bode flow) or not (like Boxidio), they'll be open sourced and licensed accordingly. Non-derived projects or projects inspired by close-sourced projects might not be open sourced.
+
+### color codes
+
+🟥 Not working, heavily broken, unstable.
+🟧 Working decently: not published.
+🟨🅰️ Private test phase; alpha versions. 
+🟨🅱️ Public test phase; beta versions. 
+🟩 Published, closed sourced.
+🟦 Published, open sourced.
