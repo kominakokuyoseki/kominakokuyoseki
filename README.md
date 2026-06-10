@@ -1,10 +1,8 @@
 Some random experimenting coder (but mainly designer, I'm more frontend) who honestly doesn't understand why the static world wide web didn't stop at HTML5 but rolls with it
 
-<div align="center">
+<h2 align="center">in the works
 
-## in the works
-
-</div>
+</h2>
 
 Color codes: see end of file.
 
