@@ -24,7 +24,7 @@ Color codes: see end of file.
 
 *   🟥 **override** *formerly called 'bow-reborn'*
 
-    A reimagined version of "Better Open With," acting as a custom replacement for the Android "Open with" dialog to give more flexibility as to where to open things! The design is currently far from unira ui, from the time where I was even trying to get MD3 elements to work in my apps, so it'll have to be reworked, too.
+    A reimagined version of "Better Open With," acting as a custom replacement for the Android "Open with" dialog to give more flexibility as to where to open things! The design is currently far from **unira ui**, from the time where I was even trying to get MD3 elements to work in my apps, so it'll have to be reworked, too.
 
 *   🟥🔳 **cobalt**
 
@@ -34,7 +34,7 @@ Color codes: see end of file.
 
 *   🟧 **ecalamity**
 
-    An advanced evolution of the [e1547](https://github.com/clynamic/e1547) Flutter client, expanded to support **Danbooru-based** imageboards (like Danbooru) alongside e621. It bridges the architectural gaps between the different API standards, implementing support for distinct authentication flows, tag systems, comments, and post flagging mechanisms found across different booru software.
+    An evolution of the [e1547](https://github.com/clynamic/e1547) imageboard client, expanded to support **Danbooru-based** imageboards (like Danbooru) alongside e621.
 
 <h2 align="center">notes</h2>
 
