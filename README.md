@@ -38,7 +38,7 @@ Color codes: see end of file.
 
 <h2 align="center">notes</h2>
 
-Some of these apps may launch soon, and depending on whether they're derived from an open source project (like bode flow) or not (like Boxidio), they'll be open sourced and licensed accordingly. Non-derived projects or projects inspired by close-sourced projects might not be open sourced.
+Some of these apps may launch soon, and depending on whether they're derived from an open source project (like **bode flow**) or not (like **bode boxidio**), they'll be sourced and/or licensed according to each situation. Non-derived projects or projects inspired by close-sourced projects might not be open sourced.
 
 ### color codes
 
