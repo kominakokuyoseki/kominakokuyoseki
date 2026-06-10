@@ -4,7 +4,7 @@ Some random experimenting coder (but mainly designer, I'm more frontend) who hon
 
 Color codes: see end of file.
 
-### [@bodecrux](https://github.com/bodecrux
+### [@bodecrux](https://github.com/bodecrux)
 
 *   🟨🅰️ **flow** *main app*
 
