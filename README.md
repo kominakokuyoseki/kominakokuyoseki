@@ -22,7 +22,7 @@ Color codes: see end of file.
 
     A specialized video generation engine for Android that creates MP4 files visualizing an embedded audio player. It was originally intended to be used on X, but the format chosen can't be uploaded because it was too wide. So it'll have to be reworked.
 
-*   🟥 **override** (bow-reborn)
+*   🟥 **override** *formerly called 'bow-reborn'*
 
     A reimagined version of "Better Open With," acting as a custom replacement for the Android "Open with" dialog to give more flexibility as to where to open things! The design is currently far from unira ui, from the time where I was even trying to get MD3 elements to work in my apps, so it'll have to be reworked, too.
 
