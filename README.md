@@ -14,6 +14,10 @@ Color codes: see end of file.
 
     A base design, to go with all bode apps. Currently implemented directly in **bode flow**, based on the Material Design 3 Expressive ***feel*** rather than the actual guidelines, and a bit of independent magination.
 
+*   🟥 **aéol** *formerly called 'bode+'*
+
+    An attempt at a music player that's more suited for EDM, with a non-generic UI, and formerly nested within **bode flow**. Will eventually be standalone and is meant to directly compete with Oto Music. I haven't decided at this time if I'll open source it or not, considering Oto Music is closed source and donationware.
+
 *   🟥 **boxidio**
 
     A specialized video generation engine for Android that creates MP4 files visualizing an embedded audio player. It was originally intended to be used on X, but the format chosen can't be uploaded because it was too wide. So it'll have to be reworked.
