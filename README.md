@@ -6,13 +6,17 @@ Color codes: see end of file.
 
 ### [@bodecrux](https://github.com/bodecrux)
 
-*   🟨🅰️ **flow** *main app*
+*   🟨🅱️ bode **ether**
+
+    A market app that manages the updates of the bode apps suite.
+
+    *   🟧 **unira ui**
+
+        A base design, to go with all bode apps. Currently implemented directly  in  **he, based on the Material Design 3 Expressive ***feel*** rather than the actual guidelinof, and a bit of independent magination.
+
+*   🟨🅰️ bode **flow**
 
     A Rich Presence manager (based on [Kizzy](https://github.com/dead8309/Kizzy)) for Android written in Kotlin. It allows users to customize and present their current activity on platforms with app and media detection.
-
-*   🟧 **unira ui**
-
-    A base design, to go with all bode apps. Currently implemented directly in **bode flow**, based on the Material Design 3 Expressive ***feel*** rather than the actual guidelines, and a bit of independent magination.
 
 *   🟥 **aéol** *formerly called 'bode+'*
 
@@ -48,9 +52,9 @@ Some of these apps may launch soon, and depending on whether they're derived fro
 
 🟨🅰️ Private test phase; alpha versions. 
 
-🟨🅱️ Public test phase; beta versions. 
+🟨🅱️ Private test phase; beta versions. 
 
-🟩 Published, closed sourced.
+🟩 Published, close sourced.
 
 🟦 Published, open sourced.
 
