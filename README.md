@@ -12,15 +12,15 @@ Color codes: see end of file.
 
     *   🟧 **unira ui**
 
-        A base design, to go with all bode apps. Currently implemented directly  in  **he, based on the Material Design 3 Expressive ***feel*** rather than the actual guidelinof, and a bit of independent magination.
+        A base design, to go with all bode apps. Currently implemented directly  in  **flow**, based on a mix of the Material Design 3 Expressive feel, a bit of stray skeumorphism design, and a bit of independent magination.
 
 *   🟨🅰️ bode **flow**
 
     A Rich Presence manager (based on [Kizzy](https://github.com/dead8309/Kizzy)) for Android written in Kotlin. It allows users to customize and present their current activity on platforms with app and media detection.
 
-*   🟥 **aéol** *formerly called 'bode+'*
+*   🟥 bode **ivory** *formerly called 'bode aéol'*
 
-    An attempt at a music player that's more suited for EDM, with a non-generic UI, and formerly nested within **bode flow**. Will eventually be standalone and is meant to directly compete with Oto Music. I haven't decided at this time if I'll open source it or not, considering Oto Music is closed source and donationware.
+    An attempt at a music player that's more suited for EDM, with a non-generic UI. The previous project was at first nested within **bode flow** with the name *bode+*. Got eventually be standalone with the name **bode aéol**, but the project got unstable with an uncertain future so I dropped the idea for a while then restarted from scratch. Is meant to directly compete with Oto Music. I haven't decided at this time if I'll open source it or not, considering Oto Music is closed source and donationware.
 
 *   🟥 **boxidio**
 
@@ -36,17 +36,17 @@ Color codes: see end of file.
 
 ### other projects
 
-*   🟧 **ecalamity**
+*   🟥🔳 **ecalamity**
 
     An evolution of the [e1547](https://github.com/clynamic/e1547) imageboard client, expanded to support **Danbooru-based** imageboards (like Danbooru) alongside e621.
 
 <h2 align="center">notes</h2>
 
-Some of these apps may launch soon, and depending on whether they're derived from an open source project (like **bode flow**) or not (like **bode boxidio**), they'll be sourced and/or licensed according to each situation. Non-derived projects or projects inspired by close-sourced projects might not be open sourced.
+Some of these apps may launch soon, and depending on whether they're derived from an open source project (like **bode flow**) or not (like **Boxidio**), they'll be sourced and/or licensed according to each situation. Non-derived projects or projects inspired by close-sourced projects might not be open sourced.
 
 ### color codes
 
-🟥 Not working, heavily broken, unstable.
+🟥 Not working, broken, unstable, or progress on hiatus.
 
 🟧 Working decently: not published.
 
